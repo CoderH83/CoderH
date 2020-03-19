@@ -8,18 +8,18 @@ Kod Bloğu, Kodlarını yerleştirmen için kolay bir şekilde alan sağlar.
 
 ```markdown
 private void treeViewSayfasıToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Form x = new Form3();
-            formName = "Sayfa " + X;
-            if (Application.OpenForms["formName"] == null)
-            {
-                x.Name = formName;
-                x.Text = formName;
-                x.MdiParent = this;
-                x.Show();
-                X++;
-            }
-        }
+{
+  Form x = new Form3();
+  formName = "Sayfa " + X;
+  if (Application.OpenForms["formName"] == null)
+    {
+      x.Name = formName;
+      x.Text = formName;
+      x.MdiParent = this;
+      x.Show();
+      X++;
+    }
+}
 ```
 gibi kodları bu bloğa yerleştirebilirsin.
 
