@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Github Sayfaları Denemesi
 
-You can use the [editor on GitHub](https://github.com/CoderH83/CoderH/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sayfa Ayarlarını Değiştirebilirsin [GitHub Editörü](https://github.com/CoderH83/CoderH/edit/master/index.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Detaylar [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
