@@ -4,9 +4,9 @@ Sayfa Ayarlarını Değiştirebilirsin [GitHub Editörü](https://github.com/Cod
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown (Kod Bloğu)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kod Bloğu Kodlarını yerleştirmen için, kolay kullanmalık alan sağlar.
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Detaylar [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Kod bloğu hakkında detaylar [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
