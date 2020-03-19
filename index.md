@@ -2,36 +2,16 @@
 
 Sayfa Ayarlarını Değiştirebilirsin [GitHub Editörü](https://github.com/CoderH83/CoderH/edit/master/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Kod Bloğu
 
-### Markdown (Kod Bloğu)
-
-Kod Bloğu Kodlarını yerleştirmen için, kolay kullanmalık alan sağlar.
+Kod Bloğu, Kodlarını yerleştirmen için kolay bir şekilde alan sağlar.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Steam Hesabım](https://steamcommunity.com/profiles/76561198310989406/)
+[İlgi Çekici Şeyler](https://i.pinimg.com/originals/81/d7/aa/81d7aa53aa4254f0e8aba32e3847bcf3.jpg)
 ```
-
-Kod bloğu hakkında detaylar [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoderH83/CoderH/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
