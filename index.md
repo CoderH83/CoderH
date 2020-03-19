@@ -7,9 +7,26 @@ Sayfa Ayarlarını Değiştirebilirsin [GitHub Editörü](https://github.com/Cod
 Kod Bloğu, Kodlarını yerleştirmen için kolay bir şekilde alan sağlar.
 
 ```markdown
+private void treeViewSayfasıToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form x = new Form3();
+            formName = "Sayfa " + X;
+            if (Application.OpenForms["formName"] == null)
+            {
+                x.Name = formName;
+                x.Text = formName;
+                x.MdiParent = this;
+                x.Show();
+                X++;
+            }
+        }
+```
+gibi kodları bu bloğa yerleştirebilirsin.
+
+## Birkaç Link
+
 [Steam Hesabım](https://steamcommunity.com/profiles/76561198310989406/)
 [İlgi Çekici Şeyler](https://i.pinimg.com/originals/81/d7/aa/81d7aa53aa4254f0e8aba32e3847bcf3.jpg)
-```
 
 ### Jekyll Themes
 
