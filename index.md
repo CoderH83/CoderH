@@ -1,32 +1,16 @@
-## Github Sayfaları Denemesi
+##
 
-Sayfa Ayarlarını Değiştirebilirsin [GitHub Editörü](https://github.com/CoderH83/CoderH/edit/master/index.md).
+### MeMe Yığını
 
-## Kod Bloğu
+Now we are all son's of Bitches.
+-Solciğer
 
-Kod Bloğu, Kodlarını yerleştirmen için kolay bir şekilde alan sağlar.
 
-```markdown
-private void treeViewSayfasıToolStripMenuItem_Click(object sender, EventArgs e)
-{
-  Form x = new Form3();
-  formName = "Sayfa " + X;
-  if (Application.OpenForms["formName"] == null)
-    {
-      x.Name = formName;
-      x.Text = formName;
-      x.MdiParent = this;
-      x.Show();
-      X++;
-    }
-}
-```
-gibi kodları bu bloğa yerleştirebilirsin.
-
-## Birkaç Link
-
-// [Steam Hesabım](https://steamcommunity.com/profiles/76561198310989406/) //
-[İlgi Çekici Şeyler](https://i.pinimg.com/originals/81/d7/aa/81d7aa53aa4254f0e8aba32e3847bcf3.jpg) //
+// [Steam Hesabım](https://steamcommunity.com/profiles/76561198310989406/)
+// [Eski ama iyi](https://i.pinimg.com/originals/81/d7/aa/81d7aa53aa4254f0e8aba32e3847bcf3.jpg)
+// [N Word] (https://www.youtube.com/watch?v=fxlZPAgdPKw)
+// [?We Like The Party?] (https://youtu.be/b8HO6hba9ZE?t=21)
+// [SoupRice] (https://youtu.be/dgUbRpdUN1w?t=112)
 
 ### Jekyll Themes
 
