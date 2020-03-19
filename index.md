@@ -25,8 +25,8 @@ gibi kodları bu bloğa yerleştirebilirsin.
 
 ## Birkaç Link
 
-[Steam Hesabım](https://steamcommunity.com/profiles/76561198310989406/)
-[İlgi Çekici Şeyler](https://i.pinimg.com/originals/81/d7/aa/81d7aa53aa4254f0e8aba32e3847bcf3.jpg)
+// [Steam Hesabım](https://steamcommunity.com/profiles/76561198310989406/) //
+[İlgi Çekici Şeyler](https://i.pinimg.com/originals/81/d7/aa/81d7aa53aa4254f0e8aba32e3847bcf3.jpg) //
 
 ### Jekyll Themes
 
