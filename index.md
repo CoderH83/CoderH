@@ -11,7 +11,7 @@ English: KINMOZA!
 Japanese: きんいろモザイク
 
 ##Little Witch Academia [Torrent](http://tinyurl.com/twjtf2w) |
-[MyAnimeList Page](https://myanimelist.net/anime/33489/Little_Witch_Academia_TV?q=Little%20Witch) n/
+[MyAnimeList Page](https://myanimelist.net/anime/33489/Little_Witch_Academia_TV?q=Little%20Witch) \n
 English: Little Witch Academia
 Japanese: リトルウィッチアカデミア
 
